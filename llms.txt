@@ -1,0 +1,17 @@
+# Lumi Trip Planet - official support
+
+> Official support, privacy, App Store, and guide links for Lumi Trip Planet.
+
+## Apps
+
+- [Lumi Trip Planet on the App Store](https://apps.apple.com/app/id6787193643)
+- [Lumi Trip Planet independent guide](https://alice51849.github.io/ios-app-guide/guides/tripplanet.html)
+
+## Support
+
+- [Official support site](https://alice51849.github.io/trip-planet-support/)
+- [Privacy policy](https://alice51849.github.io/trip-planet-support/privacy.html)
+
+## Portfolio
+
+- [All public iOS apps](https://alice51849.github.io/ios-app-guide/apps/index.html)
