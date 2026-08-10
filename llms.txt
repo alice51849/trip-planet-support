@@ -9,6 +9,7 @@
 
 ## Support
 
+- [Help, FAQ and troubleshooting](https://alice51849.github.io/trip-planet-support/help.html)
 - [Official support site](https://alice51849.github.io/trip-planet-support/)
 - [Privacy policy](https://alice51849.github.io/trip-planet-support/privacy.html)
 
