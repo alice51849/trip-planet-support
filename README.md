@@ -15,3 +15,16 @@ Fun travel games, packing help & discovery for little explorers.
 - [Open the official support site](https://alice51849.github.io/trip-planet-support/)
 
 <!-- END MANAGED APP STORE LINKS -->
+
+## Exact-50 support surfaces
+
+The required `index`, `support`, and `privacy` routes are generated or
+normalised from `source/support_surfaces.json`:
+
+```bash
+python3 tools/support_surfaces.py build
+python3 tools/support_surfaces.py check
+```
+
+The source records the verified public catalogue and app/privacy authority
+digests used for the copy. Do not hand-edit generated locale pages.
