@@ -1,6 +1,6 @@
 {
-  "name": "Trip Planet: Kids Quest",
-  "short_name": "Trip Planet: Kids Quest",
+  "name": "Trip Planet: Kids Travel Games",
+  "short_name": "Trip Planet: Kids Travel Games",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -8,7 +8,7 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/89/c6/c289c65b-43b3-8c3a-5237-f505bfc22a3e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.png",
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/cb/8f/0bcb8f4d-8e4f-51f5-05e4-f80150eb043e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
